@@ -34,6 +34,6 @@ app.listen(4000,function(erro){ //cria a aplicação na porta 4000
     if(erro){
         console.log("erro ao iniciar")
     }else{
-        console.log("Servidor Testehahaha")
+        console.log("Servidor funcionando")
     }
 })
